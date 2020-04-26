@@ -14,7 +14,7 @@ Usage: basicServe [options] <directory_to_serve>
 Options:
 
   -h, --help    output usage information
-  -p, --port    listen port (default_ 8080)
+  -p, --port    listen port (default: 8080)
 ```
 
 ## Output
